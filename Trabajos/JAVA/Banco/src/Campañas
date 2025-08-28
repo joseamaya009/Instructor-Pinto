@@ -1,0 +1,7 @@
+public class Campañas {
+    String nombre;
+
+    public Campañas(String nombre) {
+        this.nombre = nombre;
+    }
+}
